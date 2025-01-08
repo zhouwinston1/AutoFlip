@@ -1,4 +1,4 @@
-/dev-data
-/.prettierrc
-/node_modules
-/public
+dev-data/
+.prettierrc
+node_modules/
+public/
