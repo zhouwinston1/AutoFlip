@@ -2,3 +2,4 @@ dev-data/
 .prettierrc
 node_modules/
 public/
+.eslintrc.json
